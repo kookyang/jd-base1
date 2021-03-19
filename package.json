@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com//YUANPEN/YUAN.git"
+        "url": "git+https://github.com/YUANPEN/YUAN.git"
     },
     "keywords": [
         "sign"
@@ -16,9 +16,9 @@
     "author": "canghaiyishengxiao2021",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com//YUANPEN/YUAN/issues"
+        "url": "https://github.com/YUANPEN/YUAN/issues"
     },
-    "homepage": "https://github.com//YUANPEN/YUAN#readme",
+    "homepage": "https://github.com/YUANPEN/YUAN#readme",
     "dependencies": {
         "download": "^8.0.0",
         "request": "^2.88.2",
